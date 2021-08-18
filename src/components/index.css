@@ -1,0 +1,29 @@
+.font{
+    font-family:"Times New Roman", Times, serif;
+}
+.flex-container{
+    display: flex;
+    background-color:rgb(138, 202, 108);
+}
+
+.home{
+    margin-right:  20px;
+    font-family:"Times New Roman", Times, serif;
+}
+
+.about{
+    margin-right: 20px;
+    font-family:"Times New Roman", Times, serif;
+}
+
+.register{
+    margin-left: 60%;
+    font-family:"Times New Roman", Times, serif;
+}
+.Login{
+    margin-left: 20px;
+    font-family:"Times New Roman", Times, serif;
+}
+.font{
+    font-family:"Times New Roman", Times, serif;
+}
